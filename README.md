@@ -2,7 +2,7 @@
 both projects information 
 
 
-Metabnb NFT marketplace : 
+# Metabnb NFT marketplace using Particle Network : 
 
 
 
@@ -15,7 +15,7 @@ Demo - https://nft-test-orcin.vercel.app/
 
 
 
-CrosschainSwap : 
+# CrosschainSwap using Axelar Network : 
 
 Video - https://vimeo.com/826679249?share=copy 
 
